@@ -1,16 +1,27 @@
+## My Profile
 ### Hi there 👋
+#### Abhishek Khande here.. 😄
+#### 🧑🏽‍💻 I am a Frontend, Full Stack Developer 
+#### 📂 Looking to work on big web dev projects 
 
-<!--
-**AbhishekKhande/AbhishekKhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🧑🏽‍💼
+```
+{
+name : Abhishek Khande,
+location : Pune,
+my_interest : ["web development","problem solving"],
+2023_goals : ["NextJS","TypeScript"],
+hobbies : ["Valorant","Music"]
+fav_artist :["Tame Impala"]
+}
+```
+## Worked with 🧑🏽‍💻
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="60" height="60"/>
+ </p>
